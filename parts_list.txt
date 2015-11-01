@@ -1,0 +1,236 @@
+A list of parts that have been spec'd out so far for the Acrobot, including prices and suppliers.
+
+<table border=1>
+<tr>
+<td><b>Item</b></td>
+<td><b>Quantity</b></td>
+<td><b>Cost (each)</b></td>
+<td><b>Item Cost</b></td>
+<td><b>Supplier</b></td>
+<td><b>Part Number</b></td>
+</tr>
+
+<tr>
+<td>Bearings</td>
+<td>6</td>
+<td>$4.84</td>
+<td>$29.04</td>
+<td>McMaster-Carr</td>
+<td>6384k352</td>
+</tr>
+
+<tr>
+<td>Base Mount Bearing</td>
+<td>1</td>
+<td>$9.55</td>
+<td>$9.55</td>
+<td>McMaster-Carr</td>
+<td>5912K21</td>
+</tr>
+
+<tr>
+<td>Flexible Shaft-Coupler</td>
+<td>1</td>
+<td>$31.60</td>
+<td>$31.60</td>
+<td>McMaster-Carr</td>
+<td>2464K3</td>
+</tr>
+
+<tr>
+<td>Small Timing Pulley</td>
+<td>1</td>
+<td>$7.97</td>
+<td>$7.97</td>
+<td>Stock Drive</td>
+<td>A 6A 3-11DF03708</td>
+</tr>
+
+<tr>
+<td>Larger Timing Pulley</td>
+<td>1</td>
+<td>$12.47</td>
+<td>$12.47</td>
+<td>Stock Drive</td>
+<td>A 6A 3-30DF03708</td>
+</tr>
+
+<tr>
+<td>Timing Belt</td>
+<td>1</td>
+<td>$12.25</td>
+<td>$12.25</td>
+<td>Stock Drive</td>
+<td>A 6R 3-188037</td>
+</tr>
+
+<tr>
+<td>48V, 500W Power Supply</td>
+<td>1</td>
+<td>$215<br>$290</td>
+<td>$290</td>
+<td>Allied Electronics (no stock)<br>Newark</td>
+<td>ELPAC BFS500-48</td>
+</tr>
+
+<tr>
+<td>DC Motor + encoder</td>
+<td>1</td>
+<td>$218.80<br>$73.10</td>
+<td>$291.90</td>
+<td>Maxon</td>
+<td>148877<br>110513</td>
+</tr>
+
+<tr>
+<td>Digital servo amplifier & cables</td>
+<td>1</td>
+<td>$373<br>$22<br>$32<br>$32</td>
+<td>$459</td>
+<td>Copley Controls</td>
+<td>ACJ-055-09<br>ACJ-CK<br>ACJ-NK<br>ACJ-SK</td>
+</tr>
+
+<tr>
+<td>Optical Encoder for first link</td>
+<td>1<br>1<br>2</td>
+<td>$18.88<br>$9.00<br>$31.00</td>
+<td>$89.88</td>
+<td>US Digital</td>
+<td>HUBDISK-2500-375-2-I<br>DISK-2500-375-2-I<br>EM1-2-2500</td>
+</tr>
+
+<tr>
+<td colspan=6 align=center><b>Total = $1233.66</b></td>
+</tr>
+</table>
+<br>
+<br>
+Parts for 3/8" Shaft
+<table border=1>
+<tr>
+<td><b>Item</b></td>
+<td><b>Quantity</b></td>
+<td><b>Cost (each)</b></td>
+<td><b>Item Cost</b></td>
+<td><b>Supplier</b></td>
+<td><b>Part Number</b></td>
+</tr>
+
+<tr>
+<td>Bearings</td>
+<td>6</td>
+<td>$10.98</td>
+<td>$65.88</td>
+<td>Stock Drive</td>
+<td>A 7Y55-FSS8737G</td>
+</tr>
+
+<tr>
+<td>Small Timing Pulley</td>
+<td>1</td>
+<td>$4.30</td>
+<td>$4.30</td>
+<td>Stock Drive</td>
+<td>A 6Z 3-14DF03712</td>
+</tr>
+
+<tr>
+<td>Large Timing Pulley</td>
+<td>1</td>
+<td>$7.39</td>
+<td>$7.39</td>
+<td>Stock Drive</td>
+<td>A 6Z 3-37DF03712</td>
+</tr>
+<tr>
+<td>Timing Belt</td>
+<td>1</td>
+<td>$8.43</td>
+<td>$8.43</td>
+<td>Stock Drive</td>
+<td>A 6R 3-194037</td>
+</tr>
+
+<tr>
+<td>3/8" Shaft</td>
+<td>1</td>
+<td>$11.70</td>
+<td>$11.70</td>
+<td>Stock Drive</td>
+<td>S40PX0-CHS3-012</td>
+</tr>
+
+<tr>
+<td colspan=6 align=center><b>Total = $97.70</b></td>
+</tr>
+
+</table><br>
+<br>
+
+New Parts for 3/8" Shaft
+<table border=1>
+<tr>
+<td><b>Item</b></td>
+<td><b>Quantity</b></td>
+<td><b>Cost (each)</b></td>
+<td><b>Item Cost</b></td>
+<td><b>Supplier</b></td>
+<td><b>Part Number</b></td>
+</tr>
+
+
+
+<tr>
+<td>Small Timing Pulley</td>
+<td>1</td>
+<td>$4.30</td>
+<td>$4.30</td>
+<td>Stock Drive</td>
+<td>A 6Z 3-14DF03712</td>
+</tr>
+<tr>
+<td>Flexible Shaft-Coupler</td>
+<td>1</td>
+<td>$31.60</td>
+<td>$31.60</td>
+<td>McMaster-Carr</td>
+<td>2464K3</td>
+</tr></table><br>
+
+
+New Encoders
+<table border=1>
+<tr>
+<td><b>Item</b></td>
+<td><b>Quantity</b></td>
+<td><b>Cost (each)</b></td>
+<td><b>Item Cost</b></td>
+<td><b>Supplier</b></td>
+<td><b>Part Number</b></td>
+</tr>
+
+
+
+<tr>
+<td>Encoder for joint between links</td>
+<td>1</td>
+<td>$60.48</td>
+<td>$60.48</td>
+<td>US Digital</td>
+<td>E5D-1250-375-IH</td>
+</tr>
+<tr>
+<td>Replacement Encoder Disk</td>
+<td>1</td>
+<td>$25.96</td>
+<td>$25.96</td>
+<td>US Digital</td>
+<td>HUBDISK-2500-472-2-I</td>
+</tr>
+
+<tr>
+<td colspan=6 align=center><b>Total = $86.44</b></td>
+</tr>
+
+</table>
